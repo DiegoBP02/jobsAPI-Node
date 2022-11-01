@@ -4,7 +4,7 @@ Projeto feito através do curso do John Smilga de Node. Possui as seguintes func
 Criar vagas de trabalho(Create Job),
 obter todas as vagas(Get all Jobs),
 obter uma vaga específica(Get Single Job),
-atualizar as informações de uma vaga especíca(Update Job) e 
+atualizar as informações de uma vaga específica(Update Job) e 
 delete uma vaga específica(Delete Job).
 - Projeto utiliza o banco de dados MongoDB através da biblioteca mongoose
 - Senha criptografada com o bcryptjs para assegurar a segurança do usuário
